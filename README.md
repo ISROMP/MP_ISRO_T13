@@ -16,7 +16,7 @@ pip3 install PyInstaller
 ```
 - run
 ```
-PyInstaller --one-file main.py
+pyinstaller --one-file main.py
 ```
 - The built version will be in /dist directory.
 # standalone
