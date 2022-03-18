@@ -1,5 +1,5 @@
 numpy==1.19.5
 Flask==1.0.2
 matplotlib==3.3.3
-astropy==5.0.2
+astropy
 itsdangerous==2.0.1
