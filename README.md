@@ -21,4 +21,5 @@ Run
 '''
 ./main
 '''
+The standalone file(main) will be sent through email.
 (NOTE: The version here is built on mac and hence may not run on linux distros)
