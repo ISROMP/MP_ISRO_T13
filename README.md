@@ -9,3 +9,16 @@ in the directory.
 ```
 python3 main.py
 ```
+# build
+- Install PyInstaller
+- run
+```
+PyInstaller --one-file main.py
+```
+- The built version will be in /dist directory.
+# standalone
+Run 
+'''
+./main
+'''
+(NOTE: The version here is built on mac and hence may not run on linux distros)
