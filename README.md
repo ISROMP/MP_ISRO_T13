@@ -11,6 +11,9 @@ python3 main.py
 ```
 # build
 - Install PyInstaller
+```
+pip3 install PyInstaller
+```
 - run
 ```
 PyInstaller --one-file main.py
