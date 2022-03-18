@@ -9,4 +9,6 @@ in the directory.
 ```
 python3 main.py
 ```
-
+# to run standalone
+-Install using the steps above
+- Execute standalone.py
